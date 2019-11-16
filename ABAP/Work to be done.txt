@@ -1,0 +1,5 @@
+1> How to create a Transport
+2> Need to ask bhushan access for BW System for 1 week
+3> What is Further Characterstic in Data element --> Data type
+4> To be explored on Search Helps
+5> To be explored on Lock Objects
